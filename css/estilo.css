@@ -1,0 +1,272 @@
+.menuSuperior ul{
+    display: flex;
+    justify-content: right;
+}
+
+.menuSuperior li{
+    list-style-type: none;
+    margin: 10px;
+    font-size: 21px;
+}
+
+.menuSuperior a{
+    text-decoration: none;
+    color: rgb(0, 0, 92);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color:gray;
+}
+
+#Inicio{
+    color: white;
+}
+
+#foto1{
+    width: 600px;
+    float: left;
+    margin-right: 20px;
+
+}
+
+#foto2{
+    width: 500px;
+    float: left;
+    
+    margin-right: 20px;
+}
+
+#foto3{
+    width: 500px;
+}
+
+#textoFoto1{
+    font-size: 21px;
+    margin-left: 20px
+    
+}
+
+#textoFoto2{
+    font-size: 21px;
+}
+        
+#tiposMoto{
+    text-align: center;
+    padding: 200px;
+}
+
+#tiposMoto li{
+    margin: 35px;
+    list-style-type: none;
+    font-size: 40px;
+}
+
+#tiposMoto a{
+    text-decoration: none;
+    color: rgb(0, 0, 92);
+}
+
+#textoTiposdemoto{
+    font-size: 40px;
+    color: white;
+}
+
+#volver{
+    display: flex;
+    justify-content: right;
+    font-size: 20px;
+}
+
+#volver a{
+    text-decoration: none;
+}
+
+#volver li{
+    list-style-type: none;
+}
+
+#tituloTiposmoto{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#textoTiposmoto{
+    font-size: 21px;
+    text-align: center
+}
+
+.fotoTiposmoto{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.imgTiposmoto{
+    width: 700px;
+}
+
+#tiposdeCilindrada{
+    text-align: center;
+    padding: 200px;
+}
+
+#tiposdeCilindrada li{
+    list-style-type: none;
+    margin: 20px;
+    font-size: 35px;
+}
+
+#tiposdeCilindrada a{
+    text-decoration: none;
+    color: rgb(0, 0, 92);
+    
+}
+
+#textoCilindradas{
+    font-size: 25px
+}
+
+#texto50cc{
+    font-size: 21px;
+    text-align: center;
+}
+
+#fotoCilindrada{
+    display: flex;
+    justify-content: center;
+
+}
+
+#img50cc{
+    width: 700px;
+}
+
+#texto125cc{
+    font-size: 21px;
+    text-align: center;
+}
+
+#texto250cc{
+    font-size: 21px;
+    text-align: center;
+}
+
+#texto300cc{
+    font-size: 21px;
+    text-align: center;
+}
+
+#texto500cc{
+    font-size: 21px;
+    text-align: center;
+}
+
+#texto1000cc{
+    font-size: 21px;
+    text-align: center;
+}
+
+#foto125cc img{
+    display: flex;
+    text-align: center;
+    width: 650px;
+}
+
+#foto250cc img{
+    display: flex;
+    text-align: center;
+    width: 650px;
+}
+
+#foto300cc img{
+    display: flex;
+    text-align: center;
+    width: 650px;
+}
+
+#foto500cc img{
+    display: flex;
+    text-align: center;
+    width: 650px;
+}
+
+#foto1000cc img{
+    display: flex;
+    text-align: center;
+    width: 650px;
+}
+
+.fotoTop{
+    width: 800px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+#fotoTop img{
+    display: flex;
+    text-align: center;
+    
+}
+
+.textoTop{
+    font-size: 23px;
+    text-align: center;
+}
+
+#listaTop{
+    list-style-type: none;
+}
+
+.textoMarcas{
+    font-size: 22px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+    font-size: 20px;
+}
+th {
+    background-color: white;
+}
+
+.Contacta{
+    text-align: center;
+}
+
+.Contacta h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.Contacta p {
+    font-size: 21px;
+    margin-bottom: 40px;
+}
+.botones {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.boton {
+    background-color: #0073b7;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
